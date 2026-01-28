@@ -1,4 +1,4 @@
-#  second Website Project
+#  Second Website Project
 
 This is my second website built using HTML and CSS.
 
